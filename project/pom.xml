@@ -13,7 +13,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <local.lib>${project.basedir}/lib</local.lib>
-    <java.version>9</java.version>
+    <java.version>10</java.version>
     <junit.version>4.12</junit.version>
     <junit.jupiter.version>5.0.0</junit.jupiter.version>
     <junit.platform.version>1.0.0</junit.platform.version>
