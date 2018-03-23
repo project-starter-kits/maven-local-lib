@@ -8,5 +8,5 @@ Copying binary JAR files in project is not recommended and this shall be used as
 
 ## Stack Included
 
-* Java 9
+* Java 10
 * Junit 5
